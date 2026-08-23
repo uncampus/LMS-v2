@@ -78,7 +78,8 @@ const DRIVE_LINKS = {
 
 const DEFAULT_USER = {
   username:"student", password:"123456", name:"Demo Student", email:"student01@uncampus.local",
-  username:"student", password:"student123", name:"Siyath MSM", email:"student01@uncampus.local"
+  username:"student", password:"student123", name:"Siyath MSM", email:"student01@uncampus.local",
+  username:"student", password:"student1234", name:"Demo Student", email:"student01@uncampus.local"
 };
 
 const state = {
