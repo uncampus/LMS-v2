@@ -73,11 +73,11 @@ const PASSCODES = {
 // Replace these sample links with actual Google Drive "Anyone with the link" URLs.
 const DRIVE_LINKS = {
   lecture: "https://drive.google.com/",
-  assignment: "https://drive.google.com/"
+  assignment: "https://drive.google.com/file/d/1zz882WZowVOjCen008gHNMxuRS1sOOmg/view?usp=sharing"
 };
 
 const DEFAULT_USER = {
-  username:"student01", password:"123456", name:"Demo Student", email:"student01@uncampus.local",
+  username:"student", password:"123456", name:"Demo Student", email:"student01@uncampus.local",
   username:"student", password:"student123", name:"Siyath MSM", email:"student01@uncampus.local"
 };
 
