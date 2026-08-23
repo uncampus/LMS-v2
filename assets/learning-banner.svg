@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#122b61"/><stop offset=".55" stop-color="#1d5fd0"/><stop offset="1" stop-color="#5f8fdd"/></linearGradient></defs>
+<rect width="1000" height="180" rx="22" fill="url(#b)"/>
+<circle cx="850" cy="45" r="90" fill="#fff" opacity=".06"/><circle cx="930" cy="150" r="60" fill="#d5a93a" opacity=".15"/>
+<g fill="none" stroke="#fff" stroke-opacity=".16" stroke-width="2"><path d="M80 145C250 10 430 10 600 145"/><path d="M160 165C330 30 510 30 680 165"/></g>
+<g fill="#fff"><circle cx="90" cy="45" r="5"/><circle cx="150" cy="80" r="4"/><circle cx="720" cy="45" r="5"/></g>
+<text x="65" y="76" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="white">LEARN ANYWHERE</text>
+<text x="65" y="108" font-family="Arial, sans-serif" font-size="15" fill="#dce8ff">Notes • Assignments • Skills • Progress</text>
+</svg>
