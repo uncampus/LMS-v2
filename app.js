@@ -72,7 +72,7 @@ const PASSCODES = {
 
 // Replace these sample links with actual Google Drive "Anyone with the link" URLs.
 const DRIVE_LINKS = {
-  lecture: "https://drive.google.com/",
+  lecture: "#",
   assignment: "https://drive.google.com/file/d/1zz882WZowVOjCen008gHNMxuRS1sOOmg/view?usp=sharing"
 };
 
