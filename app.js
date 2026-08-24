@@ -4,7 +4,7 @@
 */
 
 const STUDENT_ACCOUNTS = [
-  { username:"student", password:"123456", name:"Student One", email:"student01@uncampus.local" },
+  { username:"student01", password:"123456", name:"Student One", email:"student01@uncampus.local" },
   { username:"student02", password:"123456", name:"Student Two", email:"student02@uncampus.local" },
   { username:"student03", password:"123456", name:"Student Three", email:"student03@uncampus.local" },
   { username:"student04", password:"123456", name:"Student Four", email:"student04@uncampus.local" }
