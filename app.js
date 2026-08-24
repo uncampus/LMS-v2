@@ -4,7 +4,7 @@
 */
 
 const STUDENT_ACCOUNTS = [
-  { username:"student01", password:"123456", name:"Student One", email:"student01@uncampus.local" },
+  { username:"student", password:"123456", name:"Student One", email:"student01@uncampus.local" },
   { username:"student02", password:"123456", name:"Student Two", email:"student02@uncampus.local" },
   { username:"student03", password:"123456", name:"Student Three", email:"student03@uncampus.local" },
   { username:"student04", password:"123456", name:"Student Four", email:"student04@uncampus.local" }
@@ -104,7 +104,8 @@ const MODULE_RESOURCES = {
   "M04": {lectureNotes:[],assignments:[]},
   "M05": {lectureNotes:[],assignments:[]},
   "M06": {lectureNotes:[],assignments:[]},
-  "M07": {lectureNotes:[],assignments:[]},
+  "M07": {lectureNotes:[],
+          assignments:[{title:"Practical Exam",url:"https://drive.google.com/file/d/1zz882WZowVOjCen008gHNMxuRS1sOOmg/view?usp=sharing"}]},
   "M08": {lectureNotes:[],assignments:[]},
   "M09": {lectureNotes:[],assignments:[]},
   "M10": {lectureNotes:[],assignments:[]},
