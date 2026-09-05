@@ -109,7 +109,8 @@ const MODULE_RESOURCES = {
   "M08": {lectureNotes:[],
           assignments:[{title:"Practical Exam",url:"https://drive.google.com/file/d/1JG4413reGJ8uLMWb0eQlcvg4zMEDXQnJ/view?usp=sharing"}]},
   "M09": {lectureNotes:[],assignments:[]},
-  "M10": {lectureNotes:[],assignments:[]},
+  "M10": {lectureNotes:[],
+          assignments:[{title:"Practical Exam",url:"https://uncampus.github.io/assignmentWD/"}]},
   "M11": {lectureNotes:[],assignments:[]},
   "M12": {lectureNotes:[],assignments:[]}
 };
