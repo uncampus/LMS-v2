@@ -105,7 +105,8 @@ const MODULE_RESOURCES = {
      {title:"Practical 01",url:"https://drive.google.com/file/d/1M8IqosCfMsDZcrYg6_R5aONfnBC2ujVE/view?usp=sharing"}
   ]},
   "M05": {lectureNotes:[],assignments:[]},
-  "M06": {lectureNotes:[],assignments:[]},
+  "M06": {lectureNotes:[],
+                        assignments:[{title:"Practical Exam",url:"https://drive.google.com/file/d/1fs5i7ktw0kINruJRN7_3guwbQUDeS5k6/view?usp=sharing"}]},
   "M07": {lectureNotes:[],
           assignments:[{title:"Practical Exam",url:"https://drive.google.com/file/d/1zz882WZowVOjCen008gHNMxuRS1sOOmg/view?usp=sharing"}]},
   "M08": {lectureNotes:[],
