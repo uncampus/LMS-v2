@@ -102,7 +102,7 @@ const MODULE_RESOURCES = {
   },
   "M03": {lectureNotes:[],assignments:[]},
   "M04": {lectureNotes:[],assignments:[
-     {title:"Practical 01",url:"https://drive.google.com/file/d/1M8IqosCfMsDZcrYg6_R5aONfnBC2ujVE/view?usp=sharing"}
+     {title:"Practical 01",url:"https://drive.google.com/file/d/12PYBp37pnlNYj0FYsZc7jGLXFrFalFAe/view?usp=sharing"}
   ]},
   "M05": {lectureNotes:[],assignments:[]},
   "M06": {lectureNotes:[],
